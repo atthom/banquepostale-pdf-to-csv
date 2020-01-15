@@ -8,14 +8,9 @@ I hope you'll find it useful
 
 # Usage
 `pdftotext` needs to be installed.
-`pip install pdftotext --user`
 
-On windows, pdftotext needs Microsoft Visual C++ 14.0.
-1. Go to https://visualstudio.microsoft.com/downloads/ 
-2. End of the page "Other Tools And Infrastructure"
-3. Download Microsoft Visual C++ Redistributable For Visual Studio 2019
-4. Install it, reboot the computer and retry to install pdftotext
-
+Windows Users:
+https://coder.haus/2019/09/27/installing-pdftotext-through-pip-on-windows-10/
 
 
 Under linux you can install it by typing:
